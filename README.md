@@ -13,7 +13,8 @@ Nuestro proyecto tiene como fin poder replicar este algoritmo en base a frecuenc
 pero envés de usar arboles usaremos nodos y punteros con la posibilidad de poder imprimir
 su decodificación de nuevo con las librerías y tecnologías aprendidas en clase.
 
-#Librerias y metodos usados;
+#Librerias y metodos usados:
+```cpp
 -Vectores 
 -Priority queue
 -Stuct
