@@ -1,4 +1,4 @@
-# codigo_huffman 
+# Codificación_huffman 
 
 #Integrantes: 
 ```cpp
