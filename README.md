@@ -16,11 +16,15 @@ pero envés de usar arboles usaremos nodos y punteros con la posibilidad de pode
 su decodificación de nuevo con las librerías y tecnologías aprendidas en clase.
 ```
 
-#Librerias y metodos usados:
+#Estructuras:
 ```cpp
 -Vectores 
 -Priority queue
 -Stuct
+-Maps
+```
+#Metodso usados:
+```cpp
 -Punteros
 -Clases
 -Cadenas
