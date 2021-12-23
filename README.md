@@ -1,9 +1,10 @@
 # codigo_huffman 
 
 #Integrantes: 
+```cpp
 -Salvador Olivares Leandro
 -Marco Wanly Obregon
-
+```
 #Descripción 
 La codificación Huffman fue inventado en 1951 por David Huffman
 mediante el uso de árboles binarios de frecuencia ordenara. Este 
@@ -23,9 +24,12 @@ su decodificación de nuevo con las librerías y tecnologías aprendidas en clas
 -Cadenas
 -Temlates 
 -Operadores
+```
 
 #Referencia:
+```cpp
 -CCM. (s. f.). ¿Cómo funciona el código Huffman? Recuperado 26 de enero de 2021, 
 recopulado de https://es.ccm.net/contents/728-codigo-huffman
 -CCM. (s. f.). ¿Cómo funciona el código Huffman? Recuperado 26 de enero de 2021,
 recopilado de https://es.ccm.net/contents/728-codigo-huffman
+```
